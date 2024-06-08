@@ -1,2 +1,2 @@
-# Projetos
-Projetos que faço para estudos, e me aperfeiçoar como desenvolvedor de software
+# ItalinBank
+Desafio que realizei para criar um mini sistema de banco básico
